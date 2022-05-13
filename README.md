@@ -20,6 +20,20 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Learn More
 
-![image](https://user-images.githubusercontent.com/77249903/168235694-74bc4ed8-fd5c-4146-8cc0-6bf1a4064f8b.png)
 
+
+![image](https://user-images.githubusercontent.com/77249903/168236101-14519402-efbf-4db2-a224-f9846883bb98.png)
+
+It is made using Next.js and some firebase services (authentication).
+
+Feature
+
+-Login Page
+-Location
+-Search
+-Map 
+-Ride elector
+
+
+			
 
