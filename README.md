@@ -20,7 +20,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Learn More.  
+
+###  Target : Uber customer experience
 
 This web application is made using Next.js and some firebase services (authentication) to let user experience to choose the route on different fares.
 There are four sectioned paged for user to view : login, search,confirm and location.
@@ -42,7 +44,7 @@ ScreenShot
 
 |Login  | Home | Search | Confirm | 
 | :---: | :---: | :---: |  :---: |
-||
+|https://play-lh.googleusercontent.com/pbDIpHL5GQ-p9mQparZDz6mqXiU1akYgx9HVp_jkftuWsk6uFnSt9P5__aL2Mnk078JE|
 
 
 
