@@ -38,7 +38,7 @@ ScreenShot
 
 |Login  | Home | Search | Confirm | 
 | :---: | :---: | :---: |  :---: |
-| Seconds | 301 | 283 |
+|  |
 
 
 
