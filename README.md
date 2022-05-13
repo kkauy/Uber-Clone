@@ -33,12 +33,12 @@ User also see the locations where they choose and see models of vehicles and the
 
 Feature
 
--Login  
--Location
--back button
--Search
--Map 
--Ride elector
+*Login  
+*Location
+*back button
+*Search
+*Map 
+*Ride elector
 
 ScreenShot
 
