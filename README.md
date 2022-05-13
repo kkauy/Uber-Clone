@@ -22,7 +22,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Learn More.  
 
-###  Target : Uber customer experience
+###  _Target: Uber customer experience_
 
 This web application is made using Next.js and some firebase services (authentication) to let user experience to choose the route on different fares.
 There are four sectioned paged for user to view : login, search,confirm and location.
@@ -31,14 +31,15 @@ User could login their googl account to access Uber sservice, search paged is vi
 User also see the locations where they choose and see models of vehicles and their fares they could choose.
 
 
-Feature
 
+
+*Feature
 *Login  
-*Location
-*back button
-*Search
-*Map 
-*Ride elector
+Location
+back button
+Search
+Map 
+Ride elector
 
 ScreenShot
 
