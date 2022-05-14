@@ -11,15 +11,17 @@ User also see the locations where they choose and see models of vehicles and the
 
 
 **Feature**
+1. Login
+2. Homescreen
+ * Location
+ * Sign out
+ * back button
+3. Search
+ * Map
+ * Ride selector
+ * Fares
 
-Login 
-Location
-back button
-Sign out
-Search
-Map 
-Ride selector
-fares
+
 
 |Login  | Home | Search | Confirm | 
 | :---: | :---: | :---: |  :---: |
