@@ -2,19 +2,15 @@
 ![image](https://user-images.githubusercontent.com/77249903/168236101-14519402-efbf-4db2-a224-f9846883bb98.png)
 
 
-
-
-## Learn More.  
-
-
+ 
 This web application is made using Next.js and some firebase services (authentication) to let user experience to choose the route on different fares.
 There are four sectioned paged for user to view : login, search,confirm and location.
 
-User could login their googl account to access Uber sservice, search paged is viewed to choose the pickup and dropoffer location.
+User could login their googl account to access Uber service, search paged is viewed to choose the pickup and dropoffer location.
 User also see the locations where they choose and see models of vehicles and their fares they could choose.
 
 
-Feature
+**Feature**
 
 Login 
 Location
@@ -52,7 +48,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 
 
-
+## Learn More
+This map of the app is using Mapbox Geocoding API to display.
 
 
 
